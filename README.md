@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Aishwarya, a MS in Computer Science student at Purdue University with an experience of 2 years as a Full-stack developer. I'm passionate about Machine Learning and Web development. The following is a brief summary of the projects I've worked on.
+
+# Machine Learning projects
+
+[Bird call identification](https://github.com/aishwaryaanaidu/birdcall-identification)
+
 <!--
 **aishwaryaanaidu/aishwaryaanaidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
