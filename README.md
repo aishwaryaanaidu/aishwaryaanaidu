@@ -4,7 +4,46 @@ I'm Aishwarya, a MS in Computer Science student at Purdue University with an exp
 
 # Machine Learning projects
 
-[Bird call identification](https://github.com/aishwaryaanaidu/birdcall-identification)
+[Bird Call Identification](https://github.com/aishwaryaanaidu/birdcall-identification)
+
+[Fake News Detection](https://github.com/aishwaryaanaidu/fake-news-detection)
+
+[Sketch Recognition for Image Classification and Retrieval](https://github.com/aishwaryaanaidu/sketch-recognition)
+
+[Road Lane Detection](https://github.com/aishwaryaanaidu/lane-detection/tree/main/Deep%20Learning%20approach)
+
+[Auto data analysis](https://github.com/aishwaryaanaidu/auto-mpg)
+
+[Text Classification using KNN](https://github.com/aishwaryaanaidu/knn-text-classification)
+
+[Hand-written Digit Classification](https://github.com/aishwaryaanaidu/hand-written-digit-classification)
+
+[Neural Network from scratch](https://github.com/aishwaryaanaidu/neural-network-from-scratch)
+
+[Congressional Voting](https://github.com/aishwaryaanaidu/congressional-voting-party-affiliation)
+
+# Computer Vision projects
+
+[Road Lane Detection](https://github.com/aishwaryaanaidu/lane-detection/tree/main/Computer-vision-approach)
+
+[Cartoonifying an image](https://github.com/aishwaryaanaidu/cartoonify)
+
+# Web Development projects
+
+[Assignment Management System](https://github.com/aishwaryaanaidu/assignment-management-system)
+
+[World Population Analysis](https://github.com/aishwaryaanaidu/population)
+
+[Employee portal](https://github.com/aishwaryaanaidu/employee-portal)
+
+[Weather Application](https://github.com/aishwaryaanaidu/weather-app)
+
+[Timezone converter](https://github.com/aishwaryaanaidu/timezone-converter)
+
+[Travel website](https://github.com/aishwaryaanaidu/travel-website)
+
+[E-learning website](https://github.com/aishwaryaanaidu/e-learning-website)
+
 
 <!--
 **aishwaryaanaidu/aishwaryaanaidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
