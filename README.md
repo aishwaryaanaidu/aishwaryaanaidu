@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Aishwarya, a MS in Computer Science student at Purdue University with an experience of 2 years as a Full-stack developer. I'm passionate about Machine Learning and Web development. The following is a brief summary of the projects I've worked on.
+I'm Aishwarya, a MS in Computer Science student at Purdue University. I worked as a Full-stack developer at BETSOL Software for 2 years on their Backup and Recovery product, Zmanda. I'm passionate about Machine Learning and Web development. The following is a brief summary of the projects I've worked on.
 
 # Machine Learning projects
 
