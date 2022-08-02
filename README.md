@@ -22,12 +22,6 @@ I'm Aishwarya, a Computer Science graduate student at Purdue University. I worke
 
 [Congressional Voting](https://github.com/aishwaryaanaidu/congressional-voting-party-affiliation)
 
-# Computer Vision projects
-
-[Road Lane Detection](https://github.com/aishwaryaanaidu/lane-detection/tree/main/Computer-vision-approach)
-
-[Cartoonifying an image](https://github.com/aishwaryaanaidu/cartoonify)
-
 # Web Development projects
 
 [Assignment Management System](https://github.com/aishwaryaanaidu/assignment-management-system)
@@ -43,6 +37,12 @@ I'm Aishwarya, a Computer Science graduate student at Purdue University. I worke
 [Travel website](https://github.com/aishwaryaanaidu/travel-website)
 
 [E-learning website](https://github.com/aishwaryaanaidu/e-learning-website)
+
+# Computer Vision projects
+
+[Road Lane Detection](https://github.com/aishwaryaanaidu/lane-detection/tree/main/Computer-vision-approach)
+
+[Cartoonifying an image](https://github.com/aishwaryaanaidu/cartoonify)
 
 
 <!--
